@@ -1,3 +1,14 @@
+# NeoG-MarkEight-Emoji fruit translator
+
+
+
+![Fruit Emoji Translator](https://user-images.githubusercontent.com/96565022/193994068-caae59d1-8c38-465e-baf3-6db2b561d161.png)
+
+# Features
+
+1. Enter a fruit emoji to know its name
+2. Click on a fruit to know its name
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
